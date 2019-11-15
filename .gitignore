@@ -1,0 +1,10 @@
+.DS_Store
+.nyc_output
+.editorconfig
+build
+node_modules
+.vscode
+coverage
+*.env
+reports/*
+test.js
